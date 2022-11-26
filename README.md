@@ -1,5 +1,28 @@
-Маленькая аркадная игра timeKiller сделанная совместно с m1khaelko
+<p align="center">
+      <img src="Project Logo Url" width="726">
+</p>
 
-Игра на Яндекс играх: https://yandex.ru/games/app/201462?draft=true&lang=ru
+<p align="center">
+   <img src="" alt="Unity Version">
+   <img src="" alt="Game Version">
+   <img src="" alt="License">
+</p>
 
-Игра в Google Play: https://play.google.com/store/apps/details?id=com.hydroponicka.Duuhu&hl=ru&gl=US
+## About
+
+About Text Here
+
+## Documentation
+
+Documentation Here
+
+## Distribute
+
+- [Service Name](Page Link)
+
+
+## Developers
+
+- [Delevoper Name](GitHub Profile Link)
+
+## License

@@ -4,8 +4,6 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Engine-Unity%202021.3.11f1-red" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
 </p>
 
 ## About

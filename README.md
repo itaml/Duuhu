@@ -8,19 +8,21 @@
 
 ## About
 
-About Text Here
+a small arcade game on Unity
 
 ## Documentation
 
-Documentation Here
+Download project and add it to Unity Hub
 
 ## Distribute
 
-- [Service Name](Page Link)
+- [Yandex Games](https://yandex.ru/games/app/201462?draft=true&lang=ru)
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.hydroponicka.Duuhu&hl=ru&gl=US)
 
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [itaml](https://github.com/itaml)
+- [m1khaelko](https://github.com/m1khaelko)
 
-## License
